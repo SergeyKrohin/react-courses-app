@@ -1,1 +1,1 @@
-Run "npm i && npm start"
+Run "npm i & npm start"
